@@ -1,2 +1,2 @@
 <h1>sourcetools</h1>
-<p><i>Cross platform, CLI, general source tools.</i></p>
+<p>Useful cross platform, CLI developer tools that can be used when working with large projects and huge codebases.</p>
