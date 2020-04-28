@@ -14,3 +14,9 @@
   <i>structure (path)</i>                  Shows what functions variables are initialzed in
   <i>varvals (path)</i>                    Shows all values of variables in a file
 </pre>
+<br>
+<h4>Binaries:</h4>
+<p>
+  Windows binaries have already been compiled for all utilities, and can be found in <code>sourcetools/bin</code>.
+  Any utility can be compiled into an executable for macOS or Linux using: <code>go build (filename).go codebase.go</code>
+</p>
